@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rosal-acera-grade8-libra-937d7",
+  "private_key_id": "00c1408ee98718d8bf1cf6caeeaa6da2d37a5ab5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCDPkGEMjOhaSC\nojwg6NtD9j+mkqNhKPymyBBt3XCnReajQxTO/ep7OD2PYKMsPufmXQ8CHoRR28Kt\nshd/eBmvwfupEK3MJHES0CU7w6tz2MDmcttgXRTioR/xQp5Q7QGFGlCafLm3NsD+\nulCka38cKsCs5o9h7Si36iK6b/pkctjSjHTWzhHG87dYbQstdXuKpK9aqgc7uSKF\nr1oyZdj+NIr+lwDfZ2U+rE+UZRYhHJPb+lY936yW/G9Ps9afEhzc/56BM0KlraZp\n/OL3zYaUXxuL2rGjyi77XBnfOmsHIrt549UtfsZYrOw45OPoWnH/hlgyQXIRoNi2\nfLxEF/GjAgMBAAECggEAUyBwiv8krofEheuOu4BU8aOq96XolEYVGTMqCo5qZFXG\n69hgMR3H1Vot0N5SeDFIcUAbHkrJXzG3j2Xzt/jQdCCyuGV7NjDEOY1t7dCwAVPw\nqqe4P2sQd9cTEmx52mv1EzpHHi7g9dHgUh6pTg34qS3NVSP9dzM7lrGXh+tRRbbH\nQRTiJk8V3IzzMBXx2DFPLvqBzqrgWzhYNjuldC1U08JcWt+Ot6d0SEWT0+Y1la+A\nvR+89VtfcfYls2zj+Mx7czus6CuLoXfcCWgDQ54ahJ9e1bGod5ZX1ie92OeAznwF\nP9iYF95H/h2sMolExDl6VC5tzPZnBiCLan4zdIu6fQKBgQD1W1sc98zPkxrJMrCb\naW7jLpgtv5JxV9eo4b1UDsYURVYq2xGqtT5Lkj/aKNMvJRPRm1AywQJEHoVxrq2e\niFXXwd62VhxVKoXXzIwHtUOoFfMr4xG7xwvDG3YVM4Hw/lzgMpRmOCnRrvG9H0k/\nOyGJ/sijFOsWd56AaDFOUq35BwKBgQDKd97ujLGbKreCKP1+bDCCiUCnJT8M8jtK\nFOhpSYlfhe0IW0Emxf7rEiW+OShN9jYQst7jkfGtDGiay+PVdK9Kuu0crLJ4TEI2\n6TvxvG69dIGUXQTG4+GAVjT+j1vMRTsRxJeTZFtA3Q2+1aSRTw6QRqfQW34NGplV\nthTYlS6nhQKBgFH2e8B4k0XAaZFOyqqQFQf1d8bImV4dryBukLW03bzF0NwuJH+3\nXiEWsRfqzWmRZEaAMNFTorMo0wFADiXIe4zA6epVZ8+XjfCiFyE4D2rmMj618yWc\nf7RkxxScCUt9XX9TxjlDh8zROVYpTmm+Eh0sLNA127a8rQlORTJZ8l4fAoGBAMI4\nOPcWqazSTlSio4DpoaMmrIlqFlCB8VQAOG3/Z7LlUtrIRvg9yGqQ7vnJ9JrMy1I7\nc8pTjsTUeWe8nGJ/20NRivENzOnPJVltZN5gRs6ge0jp7hIoOYIVsCJdPM73vlEu\nB8UQ6OSQ6IWehY4Ki0rlLEeX7JP/ZwWsc9TLToTNAoGANwE3JSG3dWidSZk1nXNM\nZRCANBlsVc1DCMZKYXqAqJyNUfwjc5Zt276IjuUe5MKQpNs+ui8ppqaG0ovbIY/S\nulC1VuWwvk8WvrZO1QZQbFuyw4lTAx8Q9GXj7S425aZLAGKC5tHhuYQtsY+Rzd7i\n+rNBET1CctsTMQp1abl5R5o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@rosal-acera-grade8-libra-937d7.iam.gserviceaccount.com",
+  "client_id": "105114850102461728612",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40rosal-acera-grade8-libra-937d7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
